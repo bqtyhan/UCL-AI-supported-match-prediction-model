@@ -1,0 +1,152 @@
+date,home_team,away_team,score,venue,referee,home_possession,away_possession,home_passing_accuracy,away_passing_accuracy,home_shots_on_target,away_shots_on_target,home_saves,away_saves,home_passing_accuracy_pct,away_passing_accuracy_pct,home_shots_on_target_pct,away_shots_on_target_pct,home_saves_pct,away_saves_pct,result,winner
+2025-09-16,PSV Eindhoven,Union SG,1–3,Philips Stadion,Anthony Taylor,62%,38%,470 of 588,251 of 358,3 of 10,6 of 17,4 of 6,2 of 3,79.9,70.1,30.0,35.3,66.7,66.7,Away Win,Union SG
+2025-09-16,Athletic Club,Arsenal,0–2,San Mamés,Donatas Rumšas,39%,61%,246 of 338,435 of 532,2 of 11,6 of 11,4 of 6,2 of 2,72.8,81.8,18.2,54.5,66.7,100.0,Away Win,Arsenal
+2025-09-16,Tottenham,Villarreal,1–0,Tottenham Hotspur Stadium,Rade Obrenović,58%,42%,436 of 529,295 of 380,1 of 9,0 of 10,0 of 0,1 of 1,82.4,77.6,11.1,0.0,,100.0,Home Win,Tottenham
+2025-09-16,Benfica,Qarabağ,2–3,Estádio do Sport Lisboa e Benfica,Erik Lambrechts,53%,47%,431 of 517,372 of 462,3 of 14,5 of 10,2 of 5,1 of 3,83.4,80.5,21.4,50.0,40.0,33.3,Away Win,Qarabağ
+2025-09-16,Juventus,Dortmund,4–4,Allianz Stadium,François Letexier,52%,48%,459 of 532,410 of 501,7 of 19,4 of 9,1 of 4,3 of 7,86.3,81.8,36.8,44.4,25.0,42.9,Draw,Draw
+2025-09-16,Real Madrid,Marseille,2–1,Estadio Santiago Bernabéu,Irfan Peljto,44%,56%,364 of 431,478 of 559,13 of 26,5 of 15,4 of 5,13 of 13,84.5,85.5,50.0,33.3,80.0,100.0,Home Win,Real Madrid
+2025-09-17,Slavia Prague,Bodø/Glimt,2–2,Fortuna Arena,Marian Barbu,47%,53%,283 of 385,330 of 429,10 of 26,8 of 10,6 of 8,8 of 10,73.5,76.9,38.5,80.0,75.0,80.0,Draw,Draw
+2025-09-17,Olympiacos,Pafos FC,0–0,Stadio Georgios Karaiskáki,István Kovács,70%,30%,484 of 613,184 of 268,3 of 18,1 of 6,1 of 1,3 of 3,79.0,68.7,16.7,16.7,100.0,100.0,Draw,Draw
+2025-09-17,Liverpool,Atlético Madrid,3–2,Anfield,Maurizio Mariani,56%,44%,561 of 643,408 of 503,6 of 20,4 of 10,2 of 4,3 of 6,87.2,81.1,30.0,40.0,50.0,50.0,Home Win,Liverpool
+2025-09-17,Ajax,Inter,0–2,Johan Cruijff Arena,Michael Oliver,56%,44%,478 of 565,363 of 449,2 of 7,4 of 14,2 of 4,2 of 2,84.6,80.8,28.6,28.6,50.0,100.0,Away Win,Inter
+2025-09-17,Bayern Munich,Chelsea,3–1,Allianz Arena,Jose Maria Sánchez,56%,44%,522 of 592,406 of 469,4 of 15,3 of 9,2 of 3,3 of 4,88.2,86.6,26.7,33.3,66.7,75.0,Home Win,Bayern Munich
+2025-09-17,Paris S-G,Atalanta,4–0,Parc des Princes,Sandro Schärer,67%,33%,671 of 738,300 of 370,12 of 21,2 of 7,2 of 2,8 of 12,90.9,81.1,57.1,28.6,100.0,66.7,Home Win,Paris S-G
+2025-09-18,Club Brugge,Monaco,4–1,Jan Breydelstadion,Simone Sozza,49%,51%,405 of 488,439 of 516,10 of 26,4 of 12,3 of 4,6 of 10,83.0,85.1,38.5,33.3,75.0,60.0,Home Win,Club Brugge
+2025-09-18,FC Copenhagen,Leverkusen,2–2,Parken,Əliyar Ağayev,37%,63%,307 of 398,597 of 684,7 of 12,4 of 15,3 of 4,5 of 7,77.1,87.3,58.3,26.7,75.0,71.4,Draw,Draw
+2025-09-18,Manchester City,Napoli,2–0,Etihad Stadium,Felix Zwayer,73%,27%,768 of 847,237 of 306,8 of 23,1 of 1,1 of 1,6 of 8,90.7,77.5,34.8,100.0,100.0,75.0,Home Win,Manchester City
+2025-09-18,Sporting CP,Qaırat Almaty,4–1,Estádio José Alvalade,Damian Sylwestrzak,64%,36%,508 of 601,251 of 339,7 of 20,4 of 9,3 of 4,3 of 7,84.5,74.0,35.0,44.4,75.0,42.9,Home Win,Sporting CP
+2025-09-18,Newcastle Utd,Barcelona,1–2,St James' Park,Glenn Nyberg,37%,63%,233 of 334,490 of 578,6 of 10,5 of 19,3 of 5,5 of 6,69.8,84.8,60.0,26.3,60.0,83.3,Away Win,Barcelona
+2025-09-18,Eint Frankfurt,Galatasaray,5–1,Deutsche Bank Park,Marco Guida,39%,61%,278 of 375,500 of 591,5 of 11,5 of 14,4 of 5,2 of 5,74.1,84.6,45.5,35.7,80.0,40.0,Home Win,Eint Frankfurt
+,,,,,,,,,,,,,,,,,,,,,
+2025-09-30,Atalanta,Club Brugge,2–1,New Balance Arena,Espen Eskås,49%,51%,450 of 530,483 of 562,1 of 19,2 of 7,1 of 2,0 of 1,84.9,85.9,5.3,28.6,50.0,0.0,Home Win,Atalanta
+2025-09-30,Chelsea,Benfica,1–0,Stamford Bridge,Daniel Siebert,56%,44%,475 of 552,356 of 439,3 of 8,3 of 9,3 of 3,3 of 3,86.1,81.1,37.5,33.3,100.0,100.0,Home Win,Chelsea
+2025-09-30,Atlético Madrid,Eint Frankfurt,5–1,Riyadh Air Metropolitan Stadium,Slavko Vinčič,51%,49%,559 of 624,499 of 588,11 of 17,2 of 6,1 of 2,7 of 11,89.6,84.9,64.7,33.3,50.0,63.6,Home Win,Atlético Madrid
+2025-09-30,Inter,Slavia Prague,3–0,Stadio Giuseppe Meazza,Chris Kavanagh,57%,43%,518 of 589,368 of 442,5 of 21,1 of 3,1 of 1,2 of 5,87.9,83.3,23.8,33.3,100.0,40.0,Home Win,Inter
+2025-09-30,Bodø/Glimt,Tottenham,2–2,Aspmyra Stadion,Ivan Kružliak,52%,48%,464 of 541,417 of 500,4 of 17,3 of 8,2 of 3,2 of 4,85.8,83.4,23.5,37.5,66.7,50.0,Draw,Draw
+2025-09-30,Marseille,Ajax,4–0,Orange Vélodrome,Anthony Taylor,48%,52%,433 of 504,476 of 551,6 of 9,2 of 13,2 of 2,2 of 6,85.9,86.4,66.7,15.4,100.0,33.3,Home Win,Marseille
+2025-09-30,Qaırat Almaty,Real Madrid,0–5,Ortalıq Stadion,Marco Guida,33%,67%,248 of 327,568 of 655,4 of 11,11 of 19,7 of 11,4 of 4,75.8,86.7,36.4,57.9,63.6,100.0,Away Win,Real Madrid
+2025-09-30,Galatasaray,Liverpool,1–0,RAMS Park,Clément Turpin,34%,66%,195 of 295,491 of 580,3 of 8,3 of 16,3 of 3,3 of 3,66.1,84.7,37.5,18.8,100.0,100.0,Home Win,Galatasaray
+2025-09-30,Pafos FC,Bayern Munich,1–5,Alphamega Stadium,Manfredas Lukjančukas,34%,66%,294 of 387,658 of 748,2 of 6,15 of 26,10 of 15,1 of 2,76.0,88.0,33.3,57.7,66.7,50.0,Away Win,Bayern Munich
+2025-10-01,Union SG,Newcastle Utd,0–4,Lotto Park,Urs Schnyder,43%,57%,335 of 420,462 of 552,6 of 17,4 of 11,2 of 4,6 of 6,79.8,83.7,35.3,36.4,50.0,100.0,Away Win,Newcastle Utd
+2025-10-01,Arsenal,Olympiacos,2–0,Emirates Stadium,François Letexier,61%,39%,439 of 544,245 of 350,4 of 16,3 of 10,3 of 3,2 of 4,80.7,70.0,25.0,30.0,100.0,50.0,Home Win,Arsenal
+2025-10-01,Qarabağ,FC Copenhagen,2–0,Tofiq Bəhramov adına Respublika stadionu,Serdar Gözübüyük,49%,51%,290 of 406,308 of 420,6 of 10,4 of 12,4 of 4,4 of 6,71.4,73.3,60.0,33.3,100.0,66.7,Home Win,Qarabağ
+2025-10-01,Barcelona,Paris S-G,1–2,Estadi Olímpic Lluís Companys,Michael Oliver,47%,53%,387 of 449,435 of 508,1 of 12,7 of 16,5 of 7,0 of 1,86.2,85.6,8.3,43.8,71.4,0.0,Away Win,Paris S-G
+2025-10-01,Leverkusen,PSV Eindhoven,1–1,BayArena,Glenn Nyberg,47%,53%,462 of 530,522 of 607,4 of 14,1 of 6,0 of 1,3 of 4,87.2,86.0,28.6,16.7,0.0,75.0,Draw,Draw
+2025-10-01,Napoli,Sporting CP,2–1,Stadio Diego Armando Maradona,Danny Makkelie,51%,49%,477 of 541,463 of 520,3 of 12,3 of 7,3 of 3,1 of 3,88.2,89.0,25.0,42.9,100.0,33.3,Home Win,Napoli
+2025-10-01,Dortmund,Athletic Club,4–1,Signal Iduna Park,Szymon Marciniak,52%,48%,483 of 571,428 of 519,8 of 13,3 of 6,2 of 3,4 of 8,84.6,82.5,61.5,50.0,66.7,50.0,Home Win,Dortmund
+2025-10-01,Monaco,Manchester City,2–2,Stade Louis II,Jesús Gil,29%,71%,259 of 329,753 of 813,2 of 7,6 of 18,4 of 6,1 of 2,78.7,92.6,28.6,33.3,66.7,50.0,Draw,Draw
+2025-10-01,Villarreal,Juventus,2–2,Estadio de la Cerámica,István Kovács,46%,54%,326 of 418,411 of 495,6 of 17,4 of 13,2 of 4,4 of 6,78.0,83.0,35.3,30.8,50.0,66.7,Draw,Draw
+,,,,,,,,,,,,,,,,,,,,,
+2025-10-21,Barcelona,Olympiacos,6–1,Estadi Olímpic Lluís Companys,Urs Schnyder,72%,28%,622 of 698,183 of 278,6 of 13,1 of 4,1 of 1,1 of 6,89.1,65.8,46.2,25.0,100.0,16.7,Home Win,Barcelona
+2025-10-21,Newcastle Utd,Benfica,3–0,St James' Park,Szymon Marciniak,52%,48%,379 of 461,337 of 426,10 of 19,2 of 7,2 of 2,7 of 10,82.2,79.1,52.6,28.6,100.0,70.0,Home Win,Newcastle Utd
+2025-10-21,Arsenal,Atlético Madrid,4–0,Emirates Stadium,Davide Massa,51%,49%,399 of 460,356 of 434,8 of 19,1 of 11,1 of 1,4 of 8,86.7,82.0,42.1,9.1,100.0,50.0,Home Win,Arsenal
+2025-10-21,Leverkusen,Paris S-G,2–7,BayArena,Jesús Gil,30%,70%,283 of 335,745 of 796,2 of 4,8 of 24,1 of 8,1 of 2,84.5,93.6,50.0,33.3,12.5,50.0,Away Win,Paris S-G
+2025-10-21,PSV Eindhoven,Napoli,6–2,Philips Stadion,Daniel Siebert,59%,41%,469 of 546,305 of 384,8 of 19,2 of 10,0 of 2,3 of 8,85.9,79.4,42.1,20.0,0.0,37.5,Home Win,PSV Eindhoven
+2025-10-21,Villarreal,Manchester City,0–2,Estadio de la Cerámica,Serdar Gözübüyük,34%,66%,301 of 366,639 of 697,2 of 11,7 of 10,5 of 7,2 of 2,82.2,91.7,18.2,70.0,71.4,100.0,Away Win,Manchester City
+2025-10-21,Union SG,Inter,0–4,Lotto Park,Glenn Nyberg,31%,69%,252 of 321,647 of 719,5 of 15,6 of 20,3 of 6,5 of 5,78.5,90.0,33.3,30.0,50.0,100.0,Away Win,Inter
+2025-10-21,FC Copenhagen,Dortmund,2–4,Parken,Danny Makkelie,36%,64%,286 of 371,556 of 667,4 of 11,4 of 8,1 of 4,3 of 4,77.1,83.4,36.4,50.0,25.0,75.0,Away Win,Dortmund
+2025-10-21,Qaırat Almaty,Pafos FC,0–0,Ortalıq Stadion,Chris Kavanagh,68%,32%,501 of 610,183 of 287,2 of 22,5 of 9,5 of 5,2 of 2,82.1,63.8,9.1,55.6,100.0,100.0,Draw,Draw
+2025-10-22,Athletic Club,Qarabağ,3–1,San Mamés,Igor Pajač,60%,40%,444 of 538,266 of 366,5 of 21,3 of 9,2 of 3,2 of 5,82.5,72.7,23.8,33.3,66.7,40.0,Home Win,Athletic Club
+2025-10-22,Galatasaray,Bodø/Glimt,3–1,RAMS Park,Michael Oliver,39%,61%,325 of 399,540 of 633,11 of 23,2 of 8,1 of 2,8 of 11,81.5,85.3,47.8,25.0,50.0,72.7,Home Win,Galatasaray
+2025-10-22,Sporting CP,Marseille,2–1,Estádio José Alvalade,Rade Obrenović,53%,47%,418 of 507,376 of 454,7 of 14,3 of 10,2 of 3,5 of 7,82.4,82.8,50.0,30.0,66.7,71.4,Home Win,Sporting CP
+2025-10-22,Chelsea,Ajax,5–1,Stamford Bridge,Felix Zwayer,65%,35%,570 of 632,262 of 341,8 of 20,0 of 1,0 of 0,5 of 8,90.2,76.8,40.0,0.0,,62.5,Home Win,Chelsea
+2025-10-22,Bayern Munich,Club Brugge,4–0,Allianz Arena,Donatas Rumšas,63%,37%,686 of 756,385 of 441,11 of 26,2 of 5,2 of 2,7 of 11,90.7,87.3,42.3,40.0,100.0,63.6,Home Win,Bayern Munich
+2025-10-22,Atalanta,Slavia Prague,0–0,New Balance Arena,Ricardo de Burgos,56%,44%,334 of 463,241 of 360,5 of 22,4 of 16,4 of 4,5 of 5,72.1,66.9,22.7,25.0,100.0,100.0,Draw,Draw
+2025-10-22,Real Madrid,Juventus,1–0,Estadio Santiago Bernabéu,Slavko Vinčič,65%,35%,579 of 651,275 of 349,9 of 28,4 of 13,4 of 4,8 of 9,88.9,78.8,32.1,30.8,100.0,88.9,Home Win,Real Madrid
+2025-10-22,Monaco,Tottenham,0–0,Stade Louis II,Marco Guida,56%,44%,409 of 495,307 of 392,8 of 23,2 of 11,2 of 2,8 of 8,82.6,78.3,34.8,18.2,100.0,100.0,Draw,Draw
+2025-10-22,Eint Frankfurt,Liverpool,1–5,Deutsche Bank Park,François Letexier,35%,65%,320 of 399,667 of 744,1 of 4,14 of 18,9 of 14,0 of 1,80.2,89.7,25.0,77.8,64.3,0.0,Away Win,Liverpool
+,,,,,,,,,,,,,,,,,,,,,
+2025-11-04,Slavia Prague,Arsenal,0–3,Fortuna Arena,Əliyar Ağayev,43%,57%,201 of 295,301 of 385,1 of 9,7 of 13,5 of 7,1 of 1,68.1,78.2,11.1,53.8,71.4,100.0,Away Win,Arsenal
+2025-11-04,Napoli,Eint Frankfurt,0–0,Stadio Diego Armando Maradona,João Pinheiro,64%,36%,632 of 722,320 of 409,2 of 18,3 of 7,3 of 3,2 of 2,87.5,78.2,11.1,42.9,100.0,100.0,Draw,Draw
+2025-11-04,Tottenham,FC Copenhagen,4–0,Tottenham Hotspur Stadium,Erik Lambrechts,61%,39%,484 of 556,287 of 358,6 of 13,4 of 12,4 of 4,2 of 6,87.1,80.2,46.2,33.3,100.0,33.3,Home Win,Tottenham
+2025-11-04,Liverpool,Real Madrid,1–0,Anfield,István Kovács,40%,60%,281 of 369,477 of 555,9 of 17,2 of 8,2 of 2,8 of 9,76.2,85.9,52.9,25.0,100.0,88.9,Home Win,Liverpool
+2025-11-04,Juventus,Sporting CP,1–1,Allianz Stadium,Daniel Siebert,49%,51%,449 of 535,479 of 553,9 of 18,1 of 4,0 of 1,8 of 9,83.9,86.6,50.0,25.0,0.0,88.9,Draw,Draw
+2025-11-04,Atlético Madrid,Union SG,3–1,Riyadh Air Metropolitan Stadium,Espen Eskås,66%,34%,598 of 689,276 of 357,6 of 14,3 of 8,2 of 3,3 of 6,86.8,77.3,42.9,37.5,66.7,50.0,Home Win,Atlético Madrid
+2025-11-04,Bodø/Glimt,Monaco,0–1,Aspmyra Stadion,Damian Sylwestrzak,64%,36%,640 of 732,313 of 411,4 of 17,2 of 9,1 of 2,4 of 4,87.4,76.2,23.5,22.2,50.0,100.0,Away Win,Monaco
+2025-11-04,Paris S-G,Bayern Munich,1–2,Parc des Princes,Maurizio Mariani,71%,29%,676 of 761,235 of 315,9 of 25,5 of 9,3 of 5,8 of 9,88.8,74.6,36.0,55.6,60.0,88.9,Away Win,Bayern Munich
+2025-11-04,Olympiacos,PSV Eindhoven,1–1,Stadio Georgios Karaiskáki,Clément Turpin,40%,60%,247 of 343,422 of 511,4 of 18,2 of 10,1 of 2,3 of 4,72.0,82.6,22.2,20.0,50.0,75.0,Draw,Draw
+2025-11-05,Pafos FC,Villarreal,1–0,Alphamega Stadium,Sven Jablonski,41%,59%,313 of 412,499 of 589,2 of 5,5 of 18,5 of 5,1 of 2,76.0,84.7,40.0,27.8,100.0,50.0,Home Win,Pafos FC
+2025-11-05,Manchester City,Dortmund,4–1,Etihad Stadium,Szymon Marciniak,50%,50%,439 of 514,428 of 507,11 of 18,4 of 12,3 of 4,7 of 11,85.4,84.4,61.1,33.3,75.0,63.6,Home Win,Manchester City
+2025-11-05,Benfica,Leverkusen,0–1,Estádio do Sport Lisboa e Benfica,Simone Sozza,53%,47%,499 of 574,445 of 508,5 of 21,3 of 7,2 of 3,5 of 5,86.9,87.6,23.8,42.9,66.7,100.0,Away Win,Leverkusen
+2025-11-05,Newcastle Utd,Athletic Club,2–0,St James' Park,Ivan Kružliak,58%,42%,451 of 559,292 of 406,4 of 8,5 of 12,5 of 5,2 of 4,80.7,71.9,50.0,41.7,100.0,50.0,Home Win,Newcastle Utd
+2025-11-05,Marseille,Atalanta,0–1,Orange Vélodrome,Jose Maria Sánchez,53%,47%,421 of 522,377 of 464,4 of 15,2 of 7,1 of 2,4 of 4,80.7,81.2,26.7,28.6,50.0,100.0,Away Win,Atalanta
+2025-11-05,Inter,Qaırat Almaty,2–1,Stadio Giuseppe Meazza,Luís Godinho,65%,35%,533 of 640,251 of 343,8 of 23,3 of 7,2 of 3,6 of 8,83.3,73.2,34.8,42.9,66.7,75.0,Home Win,Inter
+2025-11-05,Club Brugge,Barcelona,3–3,Jan Breydelstadion,Anthony Taylor,25%,75%,183 of 253,696 of 773,6 of 10,6 of 23,4 of 6,3 of 6,72.3,90.0,60.0,26.1,66.7,50.0,Draw,Draw
+2025-11-05,Ajax,Galatasaray,0–3,Johan Cruijff Arena,Benoît Bastien,48%,52%,432 of 498,467 of 539,2 of 8,6 of 12,5 of 6,2 of 2,86.7,86.6,25.0,50.0,83.3,100.0,Away Win,Galatasaray
+2025-11-05,Qarabağ,Chelsea,2–2,Tofiq Bəhramov adına Respublika stadionu,Sebastian Gishamer,39%,61%,257 of 338,452 of 527,2 of 8,4 of 16,2 of 4,1 of 2,76.0,85.8,25.0,25.0,50.0,50.0,Draw,Draw
+,,,,,,,,,,,,,,,,,,,,,
+2025-11-25,Ajax,Benfica,0–2,Johan Cruijff Arena,Sven Jablonski,62%,38%,613 of 713,356 of 436,3 of 7,4 of 11,2 of 4,3 of 3,86.0,81.7,42.9,36.4,50.0,100.0,Away Win,Benfica
+2025-11-25,Manchester City,Leverkusen,0–2,Etihad Stadium,João Pinheiro,55%,45%,550 of 630,433 of 510,7 of 19,2 of 7,0 of 2,7 of 7,87.3,84.9,36.8,28.6,0.0,100.0,Away Win,Leverkusen
+2025-11-25,Chelsea,Barcelona,3–0,Stamford Bridge,Slavko Vinčič,56%,44%,478 of 554,368 of 440,5 of 15,2 of 5,2 of 2,3 of 5,86.3,83.6,33.3,40.0,100.0,60.0,Home Win,Chelsea
+2025-11-25,Galatasaray,Union SG,0–1,RAMS Park,Jose Maria Sánchez,66%,34%,506 of 615,218 of 318,2 of 15,5 of 16,4 of 5,2 of 2,82.3,68.6,13.3,31.2,80.0,100.0,Away Win,Union SG
+2025-11-25,Dortmund,Villarreal,4–0,Signal Iduna Park,Davide Massa,66%,34%,587 of 660,278 of 346,5 of 11,1 of 10,1 of 1,1 of 5,88.9,80.3,45.5,10.0,100.0,20.0,Home Win,Dortmund
+2025-11-25,Slavia Prague,Athletic Club,0–0,Fortuna Arena,Donatas Rumšas,52%,48%,246 of 367,222 of 334,3 of 8,4 of 12,4 of 4,3 of 3,67.0,66.5,37.5,33.3,100.0,100.0,Draw,Draw
+2025-11-25,Bodø/Glimt,Juventus,2–3,Aspmyra Stadion,Danny Makkelie,57%,43%,482 of 583,340 of 437,5 of 17,15 of 23,12 of 15,4 of 5,82.7,77.8,29.4,65.2,80.0,80.0,Away Win,Juventus
+2025-11-25,Marseille,Newcastle Utd,2–1,Orange Vélodrome,Maurizio Mariani,57%,43%,477 of 577,347 of 432,7 of 18,8 of 20,7 of 8,5 of 7,82.7,80.3,38.9,40.0,87.5,71.4,Home Win,Marseille
+2025-11-25,Napoli,Qarabağ,2–0,Stadio Diego Armando Maradona,Szymon Marciniak,55%,45%,506 of 577,397 of 479,7 of 16,3 of 11,3 of 3,6 of 7,87.7,82.9,43.8,27.3,100.0,85.7,Home Win,Napoli
+2025-11-26,FC Copenhagen,Qaırat Almaty,3–2,Parken,Nick Walsh,54%,46%,402 of 512,346 of 444,8 of 17,4 of 13,2 of 4,6 of 8,78.5,77.9,47.1,30.8,50.0,75.0,Home Win,FC Copenhagen
+2025-11-26,Pafos FC,Monaco,2–2,Alphamega Stadium,Ivan Kružliak,49%,51%,341 of 449,378 of 470,4 of 17,6 of 14,4 of 6,3 of 4,75.9,80.4,23.5,42.9,66.7,75.0,Draw,Draw
+2025-11-26,Liverpool,PSV Eindhoven,1–4,Anfield,Alejandro Hernández,63%,37%,545 of 620,284 of 364,9 of 27,5 of 8,2 of 5,8 of 9,87.9,78.0,33.3,62.5,40.0,88.9,Away Win,PSV Eindhoven
+2025-11-26,Sporting CP,Club Brugge,3–0,Estádio José Alvalade,Tobias Stieler,45%,55%,425 of 498,517 of 600,9 of 19,1 of 8,1 of 1,6 of 9,85.3,86.2,47.4,12.5,100.0,66.7,Home Win,Sporting CP
+2025-11-26,Arsenal,Bayern Munich,3–1,Emirates Stadium,Marco Guida,40%,60%,297 of 381,484 of 561,8 of 13,2 of 8,1 of 2,5 of 8,78.0,86.3,61.5,25.0,50.0,62.5,Home Win,Arsenal
+2025-11-26,Paris S-G,Tottenham,5–3,Parc des Princes,Felix Zwayer,67%,33%,576 of 654,226 of 323,5 of 14,4 of 11,1 of 4,1 of 5,88.1,70.0,35.7,36.4,25.0,20.0,Home Win,Paris S-G
+2025-11-26,Eint Frankfurt,Atalanta,0–3,Deutsche Bank Park,Chris Kavanagh,46%,54%,397 of 499,480 of 575,3 of 9,6 of 21,3 of 6,3 of 3,79.6,83.5,33.3,28.6,50.0,100.0,Away Win,Atalanta
+2025-11-26,Atlético Madrid,Inter,2–1,Riyadh Air Metropolitan Stadium,François Letexier,49%,51%,436 of 530,469 of 561,6 of 15,6 of 17,5 of 6,4 of 6,82.3,83.6,40.0,35.3,83.3,66.7,Home Win,Atlético Madrid
+2025-11-26,Olympiacos,Real Madrid,3–4,Stadio Georgios Karaiskáki,Michael Oliver,42%,58%,336 of 433,523 of 608,8 of 18,7 of 15,3 of 7,5 of 8,77.6,86.0,44.4,46.7,42.9,62.5,Away Win,Real Madrid
+,,,,,,,,,,,,,,,,,,,,,
+2025-12-09,Bayern Munich,Sporting CP,3–1,Allianz Arena,Nick Walsh,62%,38%,665 of 722,392 of 446,9 of 23,0 of 4,0 of 0,6 of 9,92.1,87.9,39.1,0.0,,66.7,Home Win,Bayern Munich
+2025-12-09,Tottenham,Slavia Prague,3–0,Tottenham Hotspur Stadium,Benoît Bastien,53%,47%,319 of 404,259 of 356,8 of 14,5 of 12,5 of 5,8 of 8,79.0,72.8,57.1,41.7,100.0,100.0,Home Win,Tottenham
+2025-12-09,Qaırat Almaty,Olympiacos,0–1,Astana Arena,Juan Martínez,46%,54%,302 of 454,392 of 532,1 of 5,8 of 20,7 of 8,1 of 1,66.5,73.7,20.0,40.0,87.5,100.0,Away Win,Olympiacos
+2025-12-09,Inter,Liverpool,0–1,Stadio Giuseppe Meazza,Felix Zwayer,50%,50%,438 of 527,457 of 531,2 of 9,4 of 11,4 of 4,2 of 2,83.1,86.1,22.2,36.4,100.0,100.0,Away Win,Liverpool
+2025-12-09,Atalanta,Chelsea,2–1,New Balance Arena,Alejandro Hernández,50%,50%,446 of 536,456 of 540,4 of 14,5 of 10,4 of 5,2 of 4,83.2,84.4,28.6,50.0,80.0,50.0,Home Win,Atalanta
+2025-12-09,Barcelona,Eint Frankfurt,2–1,Spotify Camp Nou,Davide Massa,74%,26%,770 of 867,181 of 297,7 of 19,4 of 6,3 of 4,5 of 7,88.8,60.9,36.8,66.7,75.0,71.4,Home Win,Barcelona
+2025-12-09,PSV Eindhoven,Atlético Madrid,2–3,Philips Stadion,Michael Oliver,52%,48%,425 of 528,391 of 486,3 of 13,9 of 15,6 of 9,1 of 3,80.5,80.5,23.1,60.0,66.7,33.3,Away Win,Atlético Madrid
+2025-12-09,Monaco,Galatasaray,1–0,Stade Louis II,Danny Makkelie,42%,58%,265 of 364,415 of 506,4 of 18,2 of 13,2 of 2,3 of 4,72.8,82.0,22.2,15.4,100.0,75.0,Home Win,Monaco
+2025-12-09,Union SG,Marseille,2–3,Lotto Park,João Pinheiro,41%,59%,359 of 452,560 of 645,6 of 8,5 of 10,2 of 5,4 of 6,79.4,86.8,75.0,50.0,40.0,66.7,Away Win,Marseille
+2025-12-10,Villarreal,FC Copenhagen,2–3,Estadio de la Cerámica,Ivan Kružliak,52%,48%,384 of 476,342 of 443,5 of 19,4 of 8,1 of 4,3 of 5,80.7,77.2,26.3,50.0,25.0,60.0,Away Win,FC Copenhagen
+2025-12-10,Benfica,Napoli,2–0,Estádio do Sport Lisboa e Benfica,Slavko Vinčič,40%,60%,289 of 381,466 of 569,5 of 13,2 of 9,2 of 2,3 of 5,75.9,81.9,38.5,22.2,100.0,60.0,Home Win,Benfica
+2025-12-10,Real Madrid,Manchester City,1–2,Estadio Santiago Bernabéu,Clément Turpin,52%,48%,392 of 474,377 of 445,1 of 16,7 of 11,6 of 7,0 of 1,82.7,84.7,6.2,63.6,85.7,0.0,Away Win,Manchester City
+2025-12-10,Leverkusen,Newcastle Utd,2–2,BayArena,Serdar Gözübüyük,51%,49%,390 of 479,377 of 458,7 of 17,4 of 12,3 of 4,6 of 7,81.4,82.3,41.2,33.3,75.0,85.7,Draw,Draw
+2025-12-10,Dortmund,Bodø/Glimt,2–2,Signal Iduna Park,Erik Lambrechts,63%,37%,501 of 603,268 of 358,9 of 22,3 of 7,1 of 3,7 of 9,83.1,74.9,40.9,42.9,33.3,77.8,Draw,Draw
+2025-12-10,Juventus,Pafos FC,2–0,Allianz Stadium,Jesús Gil,61%,39%,529 of 604,313 of 386,5 of 25,3 of 12,3 of 3,3 of 5,87.6,81.1,20.0,25.0,100.0,60.0,Home Win,Juventus
+2025-12-10,Athletic Club,Paris S-G,0–0,San Mamés,Daniel Siebert,28%,72%,198 of 285,627 of 727,1 of 9,4 of 18,4 of 4,1 of 1,69.5,86.2,11.1,22.2,100.0,100.0,Draw,Draw
+2025-12-10,Club Brugge,Arsenal,0–3,Jan Breydelstadion,Sven Jablonski,49%,51%,438 of 506,440 of 527,7 of 18,10 of 20,7 of 10,7 of 7,86.6,83.5,38.9,50.0,70.0,100.0,Away Win,Arsenal
+2025-12-10,Qarabağ,Ajax,2–4,Tofiq Bəhramov adına Respublika stadionu,Rade Obrenović,48%,52%,346 of 422,393 of 457,6 of 17,8 of 20,4 of 8,4 of 6,82.0,86.0,35.3,40.0,50.0,66.7,Away Win,Ajax
+,,,,,,,,,,,,,,,,,,,,,
+2026-01-20,Bodø/Glimt,Manchester City,,Aspmyra Stadion,,,,,,,,,,,,,,,,,
+2026-01-20,Sporting CP,Paris S-G,,Estádio José Alvalade,,,,,,,,,,,,,,,,,
+2026-01-20,Tottenham,Dortmund,,Tottenham Hotspur Stadium,,,,,,,,,,,,,,,,,
+2026-01-20,Qaırat Almaty,Club Brugge,,Astana Arena,,,,,,,,,,,,,,,,,
+2026-01-20,Real Madrid,Monaco,,Estadio Santiago Bernabéu,,,,,,,,,,,,,,,,,
+2026-01-20,Villarreal,Ajax,,Estadio de la Cerámica,,,,,,,,,,,,,,,,,
+2026-01-20,Inter,Arsenal,,Stadio Giuseppe Meazza,,,,,,,,,,,,,,,,,
+2026-01-20,FC Copenhagen,Napoli,,Parken,,,,,,,,,,,,,,,,,
+2026-01-20,Olympiacos,Leverkusen,,Stadio Georgios Karaiskáki,,,,,,,,,,,,,,,,,
+2026-01-21,Newcastle Utd,PSV Eindhoven,,St James' Park,,,,,,,,,,,,,,,,,
+2026-01-21,Chelsea,Pafos FC,,Stamford Bridge,,,,,,,,,,,,,,,,,
+2026-01-21,Galatasaray,Atlético Madrid,,RAMS Park,,,,,,,,,,,,,,,,,
+2026-01-21,Atalanta,Athletic Club,,New Balance Arena,,,,,,,,,,,,,,,,,
+2026-01-21,Juventus,Benfica,,Allianz Stadium,,,,,,,,,,,,,,,,,
+2026-01-21,Bayern Munich,Union SG,,Allianz Arena,,,,,,,,,,,,,,,,,
+2026-01-21,Marseille,Liverpool,,Orange Vélodrome,,,,,,,,,,,,,,,,,
+2026-01-21,Slavia Prague,Barcelona,,Fortuna Arena,,,,,,,,,,,,,,,,,
+2026-01-21,Qarabağ,Eint Frankfurt,,Tofiq Bəhramov adına Respublika stadionu,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+2026-01-28,Benfica,Real Madrid,,Estádio do Sport Lisboa e Benfica,,,,,,,,,,,,,,,,,
+2026-01-28,Arsenal,Qaırat Almaty,,Emirates Stadium,,,,,,,,,,,,,,,,,
+2026-01-28,Manchester City,Galatasaray,,Etihad Stadium,,,,,,,,,,,,,,,,,
+2026-01-28,Liverpool,Qarabağ,,Anfield,,,,,,,,,,,,,,,,,
+2026-01-28,Monaco,Juventus,,Stade Louis II,,,,,,,,,,,,,,,,,
+2026-01-28,Dortmund,Inter,,Signal Iduna Park,,,,,,,,,,,,,,,,,
+2026-01-28,Union SG,Atalanta,,Lotto Park,,,,,,,,,,,,,,,,,
+2026-01-28,PSV Eindhoven,Bayern Munich,,Philips Stadion,,,,,,,,,,,,,,,,,
+2026-01-28,Club Brugge,Marseille,,Jan Breydelstadion,,,,,,,,,,,,,,,,,
+2026-01-28,Eint Frankfurt,Tottenham,,Deutsche Bank Park,,,,,,,,,,,,,,,,,
+2026-01-28,Ajax,Olympiacos,,Johan Cruijff Arena,,,,,,,,,,,,,,,,,
+2026-01-28,Atlético Madrid,Bodø/Glimt,,Riyadh Air Metropolitan Stadium,,,,,,,,,,,,,,,,,
+2026-01-28,Athletic Club,Sporting CP,,San Mamés,,,,,,,,,,,,,,,,,
+2026-01-28,Barcelona,FC Copenhagen,,Spotify Camp Nou,,,,,,,,,,,,,,,,,
+2026-01-28,Leverkusen,Villarreal,,BayArena,,,,,,,,,,,,,,,,,
+2026-01-28,Paris S-G,Newcastle Utd,,Parc des Princes,,,,,,,,,,,,,,,,,
+2026-01-28,Napoli,Chelsea,,Stadio Diego Armando Maradona,,,,,,,,,,,,,,,,,
+2026-01-28,Pafos FC,Slavia Prague,,Alphamega Stadium,,,,,,,,,,,,,,,,,
